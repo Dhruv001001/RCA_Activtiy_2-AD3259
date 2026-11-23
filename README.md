@@ -7,6 +7,7 @@ This project predicts whether a person has diabetes using Machine Learning. Logi
 To build a Machine Learning classification model that predicts diabetes based on medical features.
 
 ## 3. Dataset
+dataset link :- https://raw.githubusercontent.com/plotly/datasets/master/diabetes.csv
 **Dataset:** Diabetes Prediction Dataset (Pima Indians Diabetes Dataset)
 
 The dataset contains the following columns:
