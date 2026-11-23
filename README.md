@@ -73,3 +73,5 @@ The model is developed for educational purposes and is not intended for medical 
 3. Run all code cells sequentially.
 4. Enter patient details to test the model.
 5. View the prediction and evaluation results.
+
+[Professor's GitHub](https://github.com/complexiota)
